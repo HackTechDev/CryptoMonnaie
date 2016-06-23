@@ -27,12 +27,13 @@
                 <?php include("couverture.php");  ?>
                 <?php include("sommaire.php");  ?>
 
-                <?php include("cryptomonnaie.php");  ?>
-                <?php include("bitcoin.php");  ?>
+                <?php include("blockchain.php");  ?>
                 <?php include("ethereum.php");  ?>
                 <?php include("conclusion.php");  ?>
 
+                <?php include("lien.php");  ?>
 
+                <?php include("pratique.php");  ?>
 
 			</div>
 		</div>
